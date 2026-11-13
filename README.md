@@ -18,9 +18,9 @@ Decentralized Consortium KYC/AML Utility Network Smart Contract Demo (FIN4020)
 ## 2. 部署信息 (Sepolia Testnet Deployment)
 
 * **部署网络 (Network)**：Ethereum Sepolia Testnet
-* **智能合约地址 (Contract Address)**：`[請填入你的 Sepolia 合約地址，例如 0x71C...9A2]`
-* **合约管理员地址 (Default Admin)**：`[請填入你的 Admin 錢包地址]`
-* **Etherscan 浏览器查看与交互**：`https://sepolia.etherscan.io/address/[請填入你的 Sepolia 合約地址]`
+* **智能合约地址 (Contract Address)**：`0x70Aa85ABc7FD54bd12BB0c60a1e86E7A8bF7f339`
+* **合约管理员地址 (Default Admin)**：`0x132FC3fc2678aE678311fA706831696bb45F5f95`
+* **Etherscan 浏览器查看与交互**：`https://sepolia.etherscan.io/address/0x70Aa85ABc7FD54bd12BB0c60a1e86E7A8bF7f339#writeContract`
 * **编译器版本 (Compiler)**：`Solidity ^0.8.20` (依赖库：`@openzeppelin/contracts/access/AccessControl.sol`)
 
 ---
